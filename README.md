@@ -3,5 +3,5 @@
 https://xbhrnnd.dev
 
 **eu** Web gune txiki sinple bat.<br />
-**es** Un pequeño y simple sitio web.<br />
-**en** Small personal site.
+**en** Small personal site.<br />
+**es** Un pequeño y simple sitio web.
